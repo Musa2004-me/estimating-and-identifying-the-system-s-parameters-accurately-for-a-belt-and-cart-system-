@@ -1,0 +1,13 @@
+rt_nonfinite.o: C:/Users/abdal/Desktop/New/NEw_ert_rtw/rt_nonfinite.c \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetNaN.h \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rt_nonfinite.h \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtwtypes.h \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetInf.h
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetNaN.h:
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rt_nonfinite.h:
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtwtypes.h:
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetInf.h:

@@ -1,0 +1,10 @@
+rtGetNaN.o: C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetNaN.c \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtwtypes.h \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetNaN.h \
+ C:/Users/abdal/Desktop/New/NEw_ert_rtw/rt_nonfinite.h
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtwtypes.h:
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rtGetNaN.h:
+
+C:/Users/abdal/Desktop/New/NEw_ert_rtw/rt_nonfinite.h:
