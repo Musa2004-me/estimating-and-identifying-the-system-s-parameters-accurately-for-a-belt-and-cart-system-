@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="12/14/24||23:26:37" using="Simscape Multibody Link Version 7.4" from="SolidWorks 31.5.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1.STEP" uid="Assem1.STEP" version="103">
+<AssemblyFile name="Assem1.STEP.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="side.STEP-3" uid="side.STEP-3" grounded="true" entityUid="side.STEP*:*Default">
+<Transform>
+<Rotation>0.07360624096364396 0.011405127183717979 -0.9972221639961304 0.00015563427965999992 0.99993446156760624 0.011447635016560124 0.99728736935207041 -0.0009978193346472969 0.073599641897243134</Rotation>
+<Translation>0.042416812337984 0.075718811702680994 0.237500680301377</Translation>
+</Transform>
+</Instance>
+<Instance name="Mini Idler Pulley - POM V-Slot.STEP-1" uid="Mini Idler Pulley - POM V-Slot.STEP-1" grounded="true" entityUid="Mini Idler Pulley - POM V-Slot.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 -0.99174568161927057 -0.12771227843653685 -0.99993446156760624 0.011439166080759155 0.00046695704102746489 0.00099781933464700026 0.12770923407845294 -0.99181114930599068</Rotation>
+<Translation>0.024310088483880998 0.039010911832822001 0.064249732660406997</Translation>
+</Transform>
+</Instance>
+<Instance name="GT2_20T_????????????1.STEP-1" uid="GT2_20T_????????????1.STEP-1" grounded="true" entityUid="GT2_20T_????????????1.STEP*:*Default">
+<Transform>
+<Rotation>-0.99722216399613062 0.058514133494205506 -0.046087436642720241 0.011447635016558997 0.73180227357497696 0.68142085677136577 0.073599641897240969 0.67900038922810402 -0.73043929531527885</Rotation>
+<Translation>0.030107518185729001 0.067232216922223004 -0.21328887052996701</Translation>
+</Transform>
+</Instance>
+<Instance name="Shaft Coupler.STEP-1" uid="Shaft Coupler.STEP-1" grounded="true" entityUid="Shaft Coupler.STEP*:*Default">
+<Transform>
+<Rotation>-0.074482076596893987 0.9972221639961304 -0.00061310740430638513 -0.14512564475555997 -0.011447635016560017 -0.98934700630608408 -0.98660578120143683 -0.07359964189724312 0.14557515314262989</Rotation>
+<Translation>0.044567239563677002 0.067066226214482993 -0.214356065337476</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-1" uid="bolt.STEP-1" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 0.83566685887016035 -0.54911822411936273 -0.99993446156760624 -0.0089835099355751805 0.0070971204540135786 0.00099781933464700026 0.54916317933317127 0.83571454864759798</Rotation>
+<Translation>0.055656515016204 0.076578549602260002 0.061930301463326003</Translation>
+</Transform>
+</Instance>
+<Instance name="Mini Idler Pulley - POM V-Slot.STEP-2" uid="Mini Idler Pulley - POM V-Slot.STEP-2" grounded="true" entityUid="Mini Idler Pulley - POM V-Slot.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 -0.99174568161927057 -0.12771227843653685 -0.99993446156760624 0.011439166080759155 0.00046695704102746489 0.00099781933464700026 0.12770923407845294 -0.99181114930599068</Rotation>
+<Translation>0.055223975567761999 0.038656035147305 0.061968143761592001</Translation>
+</Transform>
+</Instance>
+<Instance name="GT2 idler pulley (5 mm bore) v1.STEP-1" uid="GT2 idler pulley (5 mm bore) v1.STEP-1" grounded="true" entityUid="GT2 idler pulley (5 mm bore) v1.STEP*:*Default">
+<Transform>
+<Rotation>-0.044552364993613001 -0.059691225555777994 -0.99722216399613028 0.700194921721495 -0.71385994652169482 0.011447635016559921 -0.71256028402437999 -0.69773987584463903 0.073599641897243676</Rotation>
+<Translation>0.056985833881022997 0.067383942135982006 0.24597851686526601</Translation>
+</Transform>
+</Instance>
+<Instance name="??????? V-slot 20x20_500.STEP-1" uid="??????? V-slot 20x20_500.STEP-1" grounded="true" entityUid="??????? V-slot 20x20_500.STEP*:*Default">
+<Transform>
+<Rotation>0.9972221639961304 0.011405127183717865 0.073606240963643765 -0.011447635016559992 0.99993446156760624 0.00015563427965977806 -0.073599641897242954 -0.0009978193346470638 0.99728736935207041</Rotation>
+<Translation>0.017322632450095 0.033794801990196001 -0.231856788286843</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-2" uid="bolt.STEP-2" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 0.83566685887016035 -0.54911822411936273 -0.99993446156760624 -0.0089835099355751805 0.0070971204540135786 0.00099781933464700026 0.54916317933317127 0.83571454864759798</Rotation>
+<Translation>0.021620053777056 0.076926823864215996 0.021904285407131002</Translation>
+</Transform>
+</Instance>
+<Instance name="side.STEP-2" uid="side.STEP-2" grounded="true" entityUid="side.STEP*:*Default">
+<Transform>
+<Rotation>0.07360624096364396 0.011405127183717969 -0.9972221639961304 0.00015563427965999992 0.99993446156760624 0.011447635016560114 0.99728736935207041 -0.00099781933464729582 0.073599641897243134</Rotation>
+<Translation>0.0085579414947079997 0.075647219934037002 -0.22125150960057499</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-3" uid="bolt.STEP-3" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 0.83566685887016035 -0.54911822411936273 -0.99993446156760624 -0.0089835099355751805 0.0070971204540135786 0.00099781933464700026 0.54916317933317127 0.83571454864759798</Rotation>
+<Translation>0.052533940860935997 0.076571947178701999 0.019622696508315999</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-4" uid="bolt.STEP-4" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>-0.011405127183717001 0.83566685887016035 -0.54911822411936273 -0.99993446156760624 -0.0089835099355751805 0.0070971204540135786 0.00099781933464700026 0.54916317933317127 0.83571454864759798</Rotation>
+<Translation>0.024742627932323999 0.076933426287772999 0.064211890362140006</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-5" uid="bolt.STEP-5" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>0.9972221639961304 -0.060285701562525579 0.043744597632037627 -0.011447635016559992 0.45627168698186482 0.8897668791943486 -0.073599641897242954 -0.88779602490990972 0.4543141103540152</Rotation>
+<Translation>0.035121737935407002 0.067634931533719994 0.24759218901386401</Translation>
+</Transform>
+</Instance>
+<Instance name="bolt.STEP-6" uid="bolt.STEP-6" grounded="true" entityUid="bolt.STEP*:*Default">
+<Transform>
+<Rotation>0.99722216399613062 -0.029622369436938214 -0.068340843306298207 -0.011447635016558997 -0.96756824318039658 0.25235024557413949 -0.073599641897240969 -0.25086691694550395 -0.96521960335192913</Rotation>
+<Translation>0.0012628670921310001 0.067563339765076003 -0.21116000088808901</Translation>
+</Transform>
+</Instance>
+<Instance name="base.STEP-1" uid="base.STEP-1" grounded="true" entityUid="base.STEP*:*Default">
+<Transform>
+<Rotation>-0.07360624096364396 -0.9972221639961304 0.011405127183717849 -0.00015563427965999992 0.011447635016559992 0.99993446156760624 -0.99728736935207041 0.073599641897243134 -0.00099781933464728714</Rotation>
+<Translation>0.42521561939726699 0.064370834641267999 -0.0052625227233969998</Translation>
+</Transform>
+</Instance>
+<Instance name="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP-1" uid="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP-1" grounded="true" entityUid="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP*:*Default">
+<Transform>
+<Rotation>0.067632124425242982 -0.99722216399613062 0.031206591941494999 0.55315352022330289 0.011447635016561111 -0.83300068110241998 0.83032950014454887 0.073599641897241136 0.55239117833497431</Rotation>
+<Translation>0.060522794187614998 0.066883064054217997 -0.215533659607832</Translation>
+</Transform>
+</Instance>
+<Instance name="Mini Idler Pulley - POM V-Slot.STEP-3" uid="Mini Idler Pulley - POM V-Slot.STEP-3" grounded="true" entityUid="Mini Idler Pulley - POM V-Slot.STEP*:*Default">
+<Transform>
+<Rotation>0.011405127183717001 -0.99174568161927057 0.12771227843653685 0.99993446156760624 0.011439166080759155 -0.00046695704102746489 -0.00099781933464700026 0.12770923407845294 0.99181114930599068</Rotation>
+<Translation>0.052001036293277 0.029850009461956001 0.019669319616724999</Translation>
+</Transform>
+</Instance>
+<Instance name="side.STEP-1" uid="side.STEP-1" grounded="true" entityUid="side.STEP*:*Default">
+<Transform>
+<Rotation>0.07360624096364396 0.011405127183716985 -0.9972221639961304 0.00015563427965999992 0.99993446156760624 0.011447635016559127 0.99728736935207041 -0.00099781933464722339 0.073599641897243148</Rotation>
+<Translation>0.068344588601883 0.075421173192250002 0.23558708961204899</Translation>
+</Transform>
+</Instance>
+<Instance name="Mini Idler Pulley - POM V-Slot.STEP-4" uid="Mini Idler Pulley - POM V-Slot.STEP-4" grounded="true" entityUid="Mini Idler Pulley - POM V-Slot.STEP*:*Default">
+<Transform>
+<Rotation>0.011405127183717001 -0.99174568161927057 0.12771227843653685 0.99993446156760624 0.011439166080759155 -0.00046695704102746489 -0.00099781933464700026 0.12770923407845294 0.99181114930599068</Rotation>
+<Translation>0.021087149209396999 0.030204886147468999 0.021950908515542</Translation>
+</Transform>
+</Instance>
+<Instance name="GT2 idler pulley (5 mm bore) v1.STEP-2" uid="GT2 idler pulley (5 mm bore) v1.STEP-2" grounded="true" entityUid="GT2 idler pulley (5 mm bore) v1.STEP*:*Default">
+<Transform>
+<Rotation>0.074424286324899031 -0.0029968716863130441 -0.9972221639961304 0.19289701524550909 0.98115222731332641 0.011447635016560051 0.9783924402377624 -0.19321316103773653 0.073599641897242982</Rotation>
+<Translation>0.040752470677546997 0.082752371738829003 0.040318165340088002</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="??????? V-slot 20x20_500.STEP" uid="??????? V-slot 20x20_500.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="??????? V-slot 20x20_500.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.084855334164726598</Mass>
+<CenterOfMass>0 0 0.24999999999999997</CenterOfMass>
+<Inertia>0.0017712370262865985 0.0017712370262865985 6.8351290429223453e-06 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="??????? V-slot 20x20_500.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GT2 idler pulley (5 mm bore) v1.STEP" uid="GT2 idler pulley (5 mm bore) v1.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="GT2 idler pulley (5 mm bore) v1.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00094266000845084636</Mass>
+<CenterOfMass>0 0 0.0032499999999999999</CenterOfMass>
+<Inertia>1.9004456586132621e-08 1.9004456586132634e-08 2.4376050148878857e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="GT2 idler pulley (5 mm bore) v1.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="GT2_20T_????????????1.STEP" uid="GT2_20T_????????????1.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="GT2_20T_????????????1.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0021500077367758133</Mass>
+<CenterOfMass>0.0071216812582548042 -4.2400792964445213e-05 -4.2402533072736857e-05</CenterOfMass>
+<Inertia>6.6028753145291382e-08 8.2841274890630694e-08 8.2841282791338596e-08 3.861306486849459e-12 -2.8466149034048853e-10 -2.8462058596283897e-10</Inertia>
+</MassProperties>
+<GeometryFile name="GT2_20T_????????????1.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP" uid="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.010900766259702746</Mass>
+<CenterOfMass>4.529306358125542e-09 -0.018324472794656911 5.2090639659596192e-06</CenterOfMass>
+<Inertia>3.217473783309231e-06 1.0647577825152221e-06 3.2178597253814965e-06 1.1829596383240099e-09 -7.6765657113300321e-15 1.5387461053286444e-12</Inertia>
+</MassProperties>
+<GeometryFile name="JGA25-370 12V Planetary Geared Motor_Ratio 171 &amp; 226.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Mini Idler Pulley - POM V-Slot.STEP" uid="Mini Idler Pulley - POM V-Slot.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Mini Idler Pulley - POM V-Slot.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0012766653456037511</Mass>
+<CenterOfMass>0.0043999999390348351 0 0</CenterOfMass>
+<Inertia>4.0530682862276773e-08 2.779696455066709e-08 2.7796964550667077e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="Mini Idler Pulley - POM V-Slot.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Shaft Coupler.STEP" uid="Shaft Coupler.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Shaft Coupler.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0034648744657145812</Mass>
+<CenterOfMass>0.0001099741672744323 0.0002075260899105669 0.00011003778731191818</CenterOfMass>
+<Inertia>2.1552597206663357e-07 1.1777433612984848e-07 2.1537918521341699e-07 -4.3459368070291379e-10 2.1777770483867736e-11 -6.9523391917625893e-11</Inertia>
+</MassProperties>
+<GeometryFile name="Shaft Coupler.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="base.STEP" uid="base.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="base.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.028548000000000007</Mass>
+<CenterOfMass>-0.016435450513898931 0.38911764705882357 0.0030000000000000001</CenterOfMass>
+<Inertia>1.1827723795315001e-05 1.1493165130365617e-05 2.3149600925680616e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="base.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bolt.STEP" uid="bolt.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bolt.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00095213636764532891</Mass>
+<CenterOfMass>0.019405408644848163 -1.1315270980941608e-06 1.3875442318816593e-06</CenterOfMass>
+<Inertia>3.4882616920120143e-09 2.3208875802119769e-07 2.3209167712960912e-07 -2.1730857184371652e-13 -7.0386927934835323e-12 -2.6700848636073205e-13</Inertia>
+</MassProperties>
+<GeometryFile name="bolt.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="side.STEP" uid="side.STEP*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="side.STEP.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.016002738853356169</Mass>
+<CenterOfMass>0.010055121623041736 -0.017048170122669216 0.0030000000000000001</CenterOfMass>
+<Inertia>6.4664431780798474e-06 2.1916837836046069e-06 8.5621105285643186e-06 0 0 5.4794114451213577e-09</Inertia>
+</MassProperties>
+<GeometryFile name="side.STEP_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
